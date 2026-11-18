@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Alejandro/Downloads/Practica_minishell_apoyo",
-      "program": "c:/Users/Alejandro/Downloads/Practica_minishell_apoyo/build/Debug/outDebug",
+      "cwd": "c:/Users/Alejandro/Desktop/minishell",
+      "program": "c:/Users/Alejandro/Desktop/minishell/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
